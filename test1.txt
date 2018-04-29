@@ -1,3 +1,4 @@
 it's just a test
 
-master test!
+
+merge test!
